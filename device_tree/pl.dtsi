@@ -1,0 +1,4 @@
+&axi_gpio: axi_gpio@A0001000 { 
+	status = "disabled";
+};
+
